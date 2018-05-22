@@ -1,0 +1,14 @@
+﻿Features
+Service is going to provide following key features
+User registration
+User login
+CRUD on milestones
+CRUD on tasks
+Reporting
+Search
+Tech Stack
+Some of the technologies backend will use
+Python
+Django
+Postgres
+
